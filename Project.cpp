@@ -1,7 +1,6 @@
 # Project
  
 // C program to implement hangman game
-winget install Microsoft.VisualStudio.2022.BuildTools --force --override "--wait --passive --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22000"
 #include <ctype.h>
 #include <stdbool.h>
 #include <stdio.h>
