@@ -1,3 +1,3 @@
 # Project
-C program to implement hangman game
+Java Program for Car Rental
 
